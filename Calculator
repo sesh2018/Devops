@@ -4,3 +4,8 @@ Add(a,b)
 Sub(a,b)
 Mul(a,b)
 Div(a,b)
+
+Add is a+b
+MUL is A*b
+Sub is a-b
+Div is a/b
