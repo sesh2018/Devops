@@ -3,3 +3,4 @@
 Add(a,b)
 Sub(a,b)
 Mul(a,b)
+Div(a,b)
